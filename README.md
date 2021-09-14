@@ -21,7 +21,7 @@ Firebase for **Hosting, Google athentication(Full Log-In) and real time Database
 
 firebase lets you host all the data you want
 real time database
-Google's eco system on the back (`firebase`, `google authentication`) and `react` on the front :ties together
+Google's eco system on the back (`firebase`, `google authentication`) and `react` on the front ties together
 
 ## 📕 Facebook Widgets at
 
