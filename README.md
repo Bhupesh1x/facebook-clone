@@ -10,7 +10,7 @@ Firebase for **Hosting, Google athentication(Full Log-In) and real time Database
 
 - React js
 - Firebase Firestore Realtime DB
-- Material UI
+- Material UI (For Icons)
 - React Context API
 - Redux
 - Google Authentication
