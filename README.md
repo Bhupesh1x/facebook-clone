@@ -6,16 +6,25 @@ Firebase for **Hosting, Google athentication(Full Log-In) and real time Database
 
 # 🚀 Build a Facebook Clone with REACT & Firebase
 
-- React + **React HOOKS**
-- React Context API -> REDUX pattern
-- MATERIAL UI (Icons)
-  is a library for css. One of the most popular css libraries. brings pristine icons.
-  _ on terminal, install `npm install @material-ui/core` to your local repository and install `npm install @material-ui/icons`.
-  _ more icons can be found [here](https://material-ui.com/components/material-icons/)
-- FLEXBOX (responsive)
-- [firebase](https://console.firebase.google.com/)'s Firestore realtime DB
-- Firebase Hosting
-- Firebase Google Authentication (Full Log-In)
+# Tech Stack
+
+- React js
+- Firebase Firestore Realtime DB
+- Material UI
+- React Context API
+- Redux
+- Google Authentication
+
+# Steps to use this application
+
+1 . First user will be on a signin page and here user can sign in using his/her google account.
+2 . After login user will be redirected to the home screen.
+3 . Here user can see all other users post.
+4 . And here on home screen center user will find two input box and one for the post description and other one is optional for image related to post.
+5 . And then user can press enter key to get the post posted and he can see the post being posted on the screen.
+
+
+
 
 #### Why firebase?
 
